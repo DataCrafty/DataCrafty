@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandrakala Begari</h1>
 <h3 align="center">Python Data Science Practitioner</h3>
 
-<img align = "right" width = "400" src = "https://media2.giphy.com/media/TEiaISogqJgrEuocni/giphy.gif">
+<img align = "right" width = "350" src = "https://media2.giphy.com/media/TEiaISogqJgrEuocni/giphy.gif">
 
 - 🔭 I’m currently working on **Python Data Science**
 
