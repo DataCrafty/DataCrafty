@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandrakala Begari</h1>
 <h3 align="center">Python Data Science Practitioner</h3>
 
-<img align = "right" width = "350" src = "https://media2.giphy.com/media/TEiaISogqJgrEuocni/giphy.gif">
+[<img align = "right" width = "250" src = "https://media2.giphy.com/media/TEiaISogqJgrEuocni/giphy.gif">](https://datacrafty.github.io/)
 
 - 🔭 I’m currently working on **Python Data Science**
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning algorithmic coding**
 
-- 👨‍💻 All of my projects and works are available at [https://github.com/DataCrafty](https://github.com/DataCrafty)
+- 👨‍💻 All of my projects and works are available at [https://github.com/DataCrafty?tab=repositories](https://github.com/DataCrafty?tab=repositories)
 
 - 📝 I regularly write articles on [Medium and TowardsDataScience](Medium and TowardsDataScience)
 
